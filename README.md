@@ -51,7 +51,7 @@ The [IRremote.h](https://github.com/Arduino-IRremote/Arduino-IRremote) library m
 
 - Flash the code to the microcontroller
 - Open the serial monitor under `Tools > Serial Monitor`
-- Use valid commands found on line 37 of [`LED-Strip-Controller.ino`](FIX LINK)
+- Use valid commands found on line 37 of [`LED-Strip-Controller.ino`](https://github.com/MatthewChow03/LED-Strip-Controller/blob/main/LED-Strip-Controller.ino)
 
 #### PowerShell Script
 
