@@ -34,7 +34,7 @@ $rx_data
     RED    = "Set Colour Red";
     BLUE   = "Set Colour Blue";
     GREEN  = "Set Colour Green";
-    TOGLE  = "Toggle On / Off";
+    TOGGLE  = "Toggle On / Off";
 }
 
 # Main loop
