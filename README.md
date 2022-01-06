@@ -24,7 +24,7 @@ Most coloured LED strips are controlled via a remote or bluetooth app. I created
 
 ## Demo
 
-This video shows the PowerShell script running in the terminal, multiple commands being called, and the LED indicators on the breadboard—green is for transmit, blue is for receive, and red is for invalid command.
+This video shows the PowerShell script running in the terminal, multiple commands being called, and the LED indicator on the breadboard—green is for transmit, blue is for receive, and red is for invalid command.
 
 https://user-images.githubusercontent.com/74833839/148328788-9cb8448d-6898-4720-9720-cc439e223258.mp4
 
@@ -50,7 +50,7 @@ The program can be run from the Arduino IDE. Once the firmware has been flashed 
 ### Dependencies
 The [IRremote.h](https://github.com/Arduino-IRremote/Arduino-IRremote) library must be installed in your directory or through the [Arudino IDE Library Manager](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries).
 
-### How to run the program
+## How to run the program
 
 #### Arduino IDE
 
