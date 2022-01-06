@@ -45,7 +45,7 @@ The program can be run from the Arduino IDE. Once the firmware has been flashed 
 
 ### Schematic
 
-*(Coming soon)*
+![General Schematic](https://user-images.githubusercontent.com/74833839/148456435-152627cc-1356-4e57-83a2-2d8c139a1236.png)
 
 ### Dependencies
 The [IRremote.h](https://github.com/Arduino-IRremote/Arduino-IRremote) library must be installed in your directory or through the [Arudino IDE Library Manager](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries).
