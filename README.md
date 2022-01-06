@@ -2,7 +2,7 @@
 
 Most coloured LED strips are controlled via a remote or bluetooth app. I created firmware to control the LEDs from my computer using an IR transceiver circuit powered by an **Arudino** microcontroller. The firmware was written in **C++** with an optional **PowerShell** script to control the program from the terminal.
 
-*(Video Demo Soon)*
+https://user-images.githubusercontent.com/74833839/148328788-9cb8448d-6898-4720-9720-cc439e223258.mp4
 
 <!-- TABLE OF CONTENTS -->
 <details>
