@@ -24,7 +24,7 @@ Most coloured LED strips are controlled via a remote or bluetooth app. I created
 
 ## Demo
 
-This video shows the PowerShell script running in the terminal, multiple commands being called, and the LED indicator on the breadboard—green is for transmit, blue is for receive, and red is for invalid command.
+The video shows the PowerShell script running in the terminal. Multiple commands are called quickly to show the colour changes of the LED strip as well as the LED indicator on the breadboard—green is for transmit, blue is for receive, and red is for invalid command.
 
 https://user-images.githubusercontent.com/74833839/148328788-9cb8448d-6898-4720-9720-cc439e223258.mp4
 
