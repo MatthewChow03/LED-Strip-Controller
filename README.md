@@ -1,6 +1,6 @@
-# LED Strip Contoller
+# LED Strip Controller
 
-Most coloured LED strips are controlled via a remote or bluetooth app. I created firmware to control the LED's from my computer using an IR transceiver circuit powered by an **Arudino** microcontroller. The firmware was written in **C++** with an optional **PowerShell** script to control the program from the terminal.
+Most coloured LED strips are controlled via a remote or bluetooth app. I created firmware to control the LEDs from my computer using an IR transceiver circuit powered by an **Arudino** microcontroller. The firmware was written in **C++** with an optional **PowerShell** script to control the program from the terminal.
 
 *(Video Demo Soon)*
 
@@ -17,7 +17,7 @@ Most coloured LED strips are controlled via a remote or bluetooth app. I created
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#schematic">Schematic</a></li>
         <li><a href="#dependencies">Dependencies</a></li>
-        <li><a href="#How to run the program">How to run the program</a></li>
+        <li><a href="#how-to-run-the-program">How to run the program</a></li>
       </ul>
     </li>
   </ol>
@@ -25,7 +25,7 @@ Most coloured LED strips are controlled via a remote or bluetooth app. I created
 
 ## Features
 
-- Control IR based LED strips (NEC protocal) using the Arudino IDE serial console or terminal
+- Control IR based LED strips (NEC protocol) using the Arudino IDE serial console or terminal
 - Monitor data being sent over IR using the Arudino IDE serial console or terminal
 - Help menu listing available commands (terminal only)
 
